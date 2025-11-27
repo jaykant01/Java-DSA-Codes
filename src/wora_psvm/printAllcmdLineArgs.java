@@ -1,4 +1,4 @@
-package wora;
+package wora_psvm;
 // Write a program to print all command line arguments in java
 public class printAllcmdLineArgs {
     public static void main(String[] args) {
